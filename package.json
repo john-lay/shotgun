@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/john-lay/shotgun/issues"
   },
-  "homepage": "https://github.com/john-lay/shotgun#readme"
+  "homepage": "https://github.com/john-lay/shotgun#readme",
+  "dependencies": {
+    "phaser": "^3.18.1"
+  }
 }
