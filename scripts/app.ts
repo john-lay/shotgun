@@ -1,5 +1,5 @@
 // app.ts
-
+require('phaser');
 export class Hero {
     id: number;
     name: string;
